@@ -1,0 +1,112 @@
+{
+  "Todos": [
+    {
+      "id": 1,
+      "title": "Check Todo?",
+      "due": "2018-06-30",
+      "assignedTo": "Alice",
+      "done": true
+    },
+    {
+      "id": 2,
+      "title": "New Todo",
+      "due": "2018-07-04",
+      "assignedTo": "Bob",
+      "done": false
+    },
+    {
+      "title": "Hack!",
+      "due": "2018-07-04",
+      "id": 3,
+      "assignedTo": "Carol",
+      "done": true
+    },
+    {
+      "title": "Help Wendy",
+      "due": "1/1/19",
+      "assignedTo": "Eve",
+      "id": 4,
+      "done": false
+    },
+    {
+      "done": false,
+      "title": "Another fine task",
+      "due": "2019-03-22",
+      "assignedTo": "Mallory",
+      "id": 5
+    },
+    {
+      "done": true,
+      "title": "New No No",
+      "due": "3/2/2021",
+      "assignedTo": "Faythe",
+      "id": 6
+    }
+  ],
+  "People": [
+    {
+      "id": 1,
+      "name": "Alice"
+    },
+    {
+      "id": 2,
+      "name": "Bob"
+    },
+    {
+      "id": 3,
+      "name": "Carol"
+    },
+    {
+      "id": 4,
+      "name": "Dan"
+    },
+    {
+      "id": 5,
+      "name": "Eve"
+    },
+    {
+      "id": 6,
+      "name": "Faythe"
+    },
+    {
+      "id": 7,
+      "name": "Grace"
+    },
+    {
+      "id": 8,
+      "name": "Heidi"
+    },
+    {
+      "id": 9,
+      "name": "Judy"
+    },
+    {
+      "id": 10,
+      "name": "Mallory"
+    },
+    {
+      "id": 11,
+      "name": "Olivia"
+    },
+    {
+      "id": 12,
+      "name": "Peggy"
+    },
+    {
+      "id": 13,
+      "name": "Sybil"
+    },
+    {
+      "id": 14,
+      "name": "Ted"
+    },
+    {
+      "id": 15,
+      "name": "Victor"
+    },
+    {
+      "id": 16,
+      "name": "Wendy"
+    }
+  ]
+}
